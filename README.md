@@ -17,8 +17,7 @@ Step 1: Download the Extension Files
 
 Download the latest version of the StudyZone extension:
 Click this link to download the zipped extension folder:
-[PASTE YOUR DIRECT GITHUB .ZIP DOWNLOAD LINK HERE]
-(Example: https://github.com/YourGitHubUsername/StudyZone-Chrome-Extension/releases/latest/download/StudyZone.zip)
+https://github.com/yash88990/StudyZone.zip/archive/refs/tags/v1.0.0.zip
 
 Once downloaded, find the StudyZone.zip file on your computer (it's usually in your "Downloads" folder).
 
@@ -73,4 +72,4 @@ Persistent Warning: The "Disable developer mode extensions" banner will always b
 
 Security: Only install extensions from sources you trust. Since this is not from the Chrome Web Store, Google's automatic security checks are bypassed.
 
-Feel free to open an issue on this GitHub repository if you encounter any problems or have suggestions!
+
